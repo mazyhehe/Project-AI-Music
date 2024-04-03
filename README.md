@@ -7,10 +7,24 @@ To run this project, you'll need to have Python installed on your machine. Addit
 
 ```bash
 pip install tensorflow music21 numpy keras
-
+```
 ## Usage
-
 To use Project AI Music, follow these steps:
+
+### Clone the repository:
 ```bash
-Clone the repository:
 git clone https://github.com/your-username/project-ai-music.git
+```
+
+### Navigate to the project directory:
+```bash
+cd project-ai-music
+```
+
+### Run the script:
+```bash
+python music_generator.py
+```
+
+## Contributing
+Contributions to Project AI Music are welcome! If you have an idea for an improvement or a bug fix, feel free to fork the repository, make your changes, and submit a pull request.
